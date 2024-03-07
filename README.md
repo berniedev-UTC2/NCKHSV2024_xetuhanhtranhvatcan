@@ -1,3 +1,4 @@
 # xetuhanhtranhvatcan
 Updating...<br>
-![z4519626945126_8a91b6b0482551114b45bdf29e9b6d45](https://github.com/GiaBaodotDev/xetuhanhtranhvatcan/assets/106833560/09c1db34-a2ce-4e09-b706-51fe5df4558a)
+![image](https://github.com/berniedev-UTC2/NCKHSV2024_xetuhanhtranhvatcan/assets/106833560/44ae785a-d756-4554-8bcb-800830baf8e1)
+
