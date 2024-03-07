@@ -1,4 +1,4 @@
-#include <PID_v1.h>
+#include <PID_v1.h> // https://github.com/br3ttb/Arduino-PID-Library
 
 // Khai báo tất cả các chân để điều khiển động cơ và cảm biến đường đi như mã gốc
 int stop_distance = 15; // Khoảng cách phát hiện vật cản
